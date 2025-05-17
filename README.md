@@ -25,3 +25,7 @@
 - [skill-icons](https://github.com/tandpfun/skill-icons)
   - example:   
       [![](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+- [SAWARATSUKI.ServiceLogos](https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos)
+  - example:
+      ![](https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Vue/Vue.png)
