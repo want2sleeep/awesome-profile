@@ -22,3 +22,6 @@
   - example:   
       ![](https://komarev.com/ghpvc/?username=your-github-username)
   
+- [skill-icons](https://github.com/tandpfun/skill-icons)
+  - example:   
+      [![](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
